@@ -1,0 +1,7 @@
+__pycache__/
+
+migrations/
+
+config/settings/sub_settings.py
+
+db.sqlite3
