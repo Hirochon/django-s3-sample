@@ -1,6 +1,6 @@
 import os
 try:
-    from . import local_s
+    from .local_s import *
 except ImportError:
     pass
 
