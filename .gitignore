@@ -2,6 +2,6 @@ __pycache__/
 
 migrations/
 
-config/settings/sub_settings.py
+config/settings/local_s.py
 
 db.sqlite3
