@@ -2,7 +2,7 @@ version: "3"
 services: 
     db:
         image: postgres
-    django_try:
+    django-s3-sample:
         build: .
         volumes: 
             - .:/code
